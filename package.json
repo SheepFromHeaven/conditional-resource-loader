@@ -3,7 +3,7 @@
   "name": "conditional-resource-loader",
   "version": "1.0.2",
   "description": "a minimal conditional loader to load resources (js and css) with dependencies",
-  "main": "src/resourceLoader.js",
+  "main": "resourceLoader.js",
   "repository": "git@github.com:virtualidentityag/conditional-resource-loader.git",
   "author": "VI",
   "license": "MIT"
